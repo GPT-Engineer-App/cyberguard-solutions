@@ -16,7 +16,9 @@ const Navigation = () => {
             <Link to="/contact-us">Contact Us</Link>
           </HStack>
         </HStack>
-        <Button colorScheme="teal">Get Started</Button>
+        <Link to="/get-started">
+          <Button colorScheme="teal">Get Started</Button>
+        </Link>
       </Flex>
     </Box>
   );

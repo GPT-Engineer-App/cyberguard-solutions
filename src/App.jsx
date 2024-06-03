@@ -22,6 +22,7 @@ function App() {
           <Route path="/training" element={<Training />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/contact-us" element={<ContactUs />} />
+          <Route path="/get-started" element={<GetStarted />} />
         </Routes>
       </Router>
     </ChakraProvider>
