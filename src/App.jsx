@@ -7,6 +7,8 @@ import Services from "./pages/Services";
 import Training from "./pages/Training";
 import Blog from "./pages/Blog";
 import ContactUs from "./pages/ContactUs";
+import LearnMore from "./pages/LearnMore";
+import GetStarted from "./pages/GetStarted";
 
 function App() {
   return (
